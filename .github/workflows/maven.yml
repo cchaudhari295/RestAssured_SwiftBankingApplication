@@ -1,4 +1,4 @@
-name: API Test Framnework
+name: API Test Framework
 
 on:
   push:
